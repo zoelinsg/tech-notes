@@ -1,9 +1,9 @@
 ## **[iT邦幫忙](https://ithelp.ithome.com.tw/users/20169048)**
 ### 主題文章
-- Django
-- HTML
-- Python
-- Java
-- MySQL
-- Vmware
-- Vscode
+- **[Django](https://github.com/zoelinsg/tech-notes/blob/main/Blog/ithome/Django_Basic.md)**
+- **[HTML](https://github.com/zoelinsg/tech-notes/blob/main/Blog/ithome/HTML_Basic.md)**
+- **[Python](https://github.com/zoelinsg/tech-notes/blob/main/Blog/ithome/Python_Basic.md)**
+- **[Java](https://github.com/zoelinsg/tech-notes/blob/main/Blog/ithome/Java_Basic.md)**
+- **[MySQL](https://github.com/zoelinsg/tech-notes/blob/main/Blog/ithome/MySQL_Basic.md)**
+- **[Vmware](https://github.com/zoelinsg/tech-notes/blob/main/Blog/ithome/Vmware_Basic.md)**
+- **[Vscode](https://github.com/zoelinsg/tech-notes/blob/main/Blog/ithome/Vscode_Basic.md)**
